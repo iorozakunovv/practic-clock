@@ -1,0 +1,14 @@
+body{
+  margin: 0;
+  background-image: url(./SvWWN.png);
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#clock{
+  display: flex;
+  justify-content: center;
+  color: rgb(255, 208, 164);
+  margin-top: 30vh;
+  font-weight: bold;
+  font-size: 20vh;
+}
